@@ -4,7 +4,7 @@ This project uses pyCHomP to produce the set of connection matrices.
 
 Also, here you can find examples of connection matrices for 2 dimensional discrete vector field. The visualization is provided only for 2D examples.
 
-See the GettingStarted.ipynb jupyter notebook.
+See the Getting Started.ipynb jupyter notebook.
 
 ## How to install pyCHomp:
 
