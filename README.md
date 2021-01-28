@@ -6,7 +6,7 @@ Also, here you can find examples of connection matrices for 2 dimensional discre
 
 See the GettingStarted.ipynb jupyter notebook.
 
-##How to install pyCHomp:
+## How to install pyCHomp:
 
 CHomP (Computational Homology Project) with Python bindings
 
