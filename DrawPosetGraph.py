@@ -105,5 +105,5 @@ class DrawPosetGraph():
         return gv + '}\n'
 
     def _repr_svg_(self):
-        return graphviz.Source(self.graphviz())._repr_svg_()
+        return graphviz.Source(self.graphviz())
 

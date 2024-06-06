@@ -118,7 +118,7 @@ class SetCM:
         setCM.append(str(D))
         for a, b, c in self.Elementary_TM():
             D_p = self.conjugation(a, b, c, D)
-            if str(D) not in setCM:
+            if str(D_p) not in setCM:  # should it be D_p instead of D?
                 self.Compute_all_CM(D_p, setCM)
         return setCM
 
